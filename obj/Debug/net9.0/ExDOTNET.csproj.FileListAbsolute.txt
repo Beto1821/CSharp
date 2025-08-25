@@ -1,0 +1,14 @@
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/bin/Debug/net9.0/ExDOTNET
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/bin/Debug/net9.0/ExDOTNET.deps.json
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/bin/Debug/net9.0/ExDOTNET.runtimeconfig.json
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/bin/Debug/net9.0/ExDOTNET.dll
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/bin/Debug/net9.0/ExDOTNET.pdb
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ExDOTNET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ExDOTNET.AssemblyInfoInputs.cache
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ExDOTNET.AssemblyInfo.cs
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ExDOTNET.csproj.CoreCompileInputs.cache
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ExDOTNET.dll
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/refint/ExDOTNET.dll
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ExDOTNET.pdb
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ExDOTNET.genruntimeconfig.cache
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/ExDOTNET/obj/Debug/net9.0/ref/ExDOTNET.dll
