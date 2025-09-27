@@ -1,0 +1,42 @@
+{
+  "AppSettings": {
+    "ApplicationName": "Exemplo Fundamentos",
+    "Version": "1.0.0",
+    "Environment": "Development",
+    "LogLevel": "Information"
+  },
+  "Calculadora": {
+    "PrecisaoDecimal": 2,
+    "HistoricoMaximo": 5,
+    "UnidadeAngulo": "Graus",
+    "PermitirDivisaoPorZero": false,
+    "PermitirRaizNegativa": false
+  },
+  "Pessoa": {
+    "IdadeMinima": 0,
+    "IdadeMaxima": 150,
+    "NomeVazioPermitido": false
+  },
+  "Database": {
+    "ConnectionString": "Server=localhost;Database=ExemploFundamentos;Trusted_Connection=true;",
+    "CommandTimeout": 30,
+    "EnableRetryOnFailure": true
+  },
+  "Logging": {
+    "Console": {
+      "Enabled": true,
+      "MinLevel": "Information"
+    },
+    "File": {
+      "Enabled": false,
+      "FilePath": "logs/app.log",
+      "MaxFileSize": "10MB"
+    }
+  },
+  "Features": {
+    "CalculadoraCientifica": false,
+    "HistoricoOperacoes": true,
+    "ExportarResultados": false,
+    "ModoDebug": false
+  }
+}

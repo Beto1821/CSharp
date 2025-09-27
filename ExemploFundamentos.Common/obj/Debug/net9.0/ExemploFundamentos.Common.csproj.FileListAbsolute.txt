@@ -1,0 +1,12 @@
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/bin/Debug/net9.0/ExemploFundamentos.Common.deps.json
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/bin/Debug/net9.0/ExemploFundamentos.Common.dll
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/bin/Debug/net9.0/ExemploFundamentos.Common.pdb
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ExemploFundamentos.Common.AssemblyInfoInputs.cache
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ExemploFundamentos.Common.AssemblyInfo.cs
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ExemploFundamentos.Common.sourcelink.json
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ExemploFundamentos.Common.dll
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/refint/ExemploFundamentos.Common.dll
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ExemploFundamentos.Common.pdb
+/Users/beto1821uol.com.br/Desktop/DIO/Bootcamp Akad/EXEMPLOFUNDAMENTOS/ExemploFundamentos.Common/obj/Debug/net9.0/ref/ExemploFundamentos.Common.dll
